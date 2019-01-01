@@ -275,7 +275,6 @@
     <!-- enable home button wake on aex -->
     <bool name="config_HomeWakeButton">true</bool>
 
-<<<<<<< HEAD
     <!-- Hardware keys present on the device, stored as a bit field.
           This integer should equal the sum of the corresponding value for each
           of the following keys present:
