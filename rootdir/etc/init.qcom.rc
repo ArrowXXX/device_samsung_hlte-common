@@ -28,6 +28,7 @@
 
 import init.qcom.usb.rc
 import init.target.rc
+import init.arrow.mod.rc
 
 on early-init
     setprop sys.boot_completed 0
